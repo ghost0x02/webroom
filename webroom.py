@@ -93,5 +93,6 @@ def main_menu():
            os.system("git clone https://github.com/lukacoder/nmappython")
            os.chdir('nmappython')
            os.system("python3 NMscript.py")          
-main_menu()
 
+if __name__ == "__main__":
+    main_menu() 
