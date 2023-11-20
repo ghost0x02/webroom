@@ -1,5 +1,4 @@
 
-<a href="https://instagram.com/enesxsecit" target="blan src=k"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesxsecit" height="30" width="40" / src=></a>
 
 <h3 align="left">Languages and Tools:</h3> 
 
